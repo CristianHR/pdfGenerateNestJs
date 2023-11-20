@@ -60,3 +60,6 @@ $ npm run test:cov
 
 ## Support
 https://www.youtube.com/watch?v=9VgghGKx_1c
+
+## Tasks
+- Insert Imagen en pdf puppeter

@@ -10,7 +10,7 @@ export class AppController {
     return this.appService.getHello();
   }
 
-  @Post('generate-pdf')
+  @Get('generate-pdf')
   @Header('Content-Type', 'application/pdf')
   async generatePdf(@Res() res): Promise<void>{
 
